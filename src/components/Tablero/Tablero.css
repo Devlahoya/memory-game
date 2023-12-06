@@ -1,0 +1,12 @@
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    max-width: 450px;
+    margin: auto;
+    height: auto;
+    align-items: center;
+    top: 30px;
+    position: relative;
+}
